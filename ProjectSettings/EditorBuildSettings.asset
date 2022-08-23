@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Light Probe Merging/s1.unity
+    guid: c8c89657110daed408085d133699249f
+  - enabled: 0
+    path: Assets/Scenes/Light Probe Merging/s2.unity
+    guid: 8e498765712a52f4ab5b2e9707091593
+  - enabled: 0
+    path: Assets/Scenes/Light Probe Merging/Start.unity
+    guid: d4f3b290aa62d4d45afbfe5f9c54670c
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/Start.unity
+    guid: e35da036deec07c42855ff07eff43d81
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t1.unity
+    guid: 5d99cbbb7ff45ba4c84e48f13652182a
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t2.unity
+    guid: 7885793a11b87984bb62f7c234fcbff0
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t3.unity
+    guid: f0aaf526533061047b5c77c6028a334e
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t4.unity
+    guid: aa5d45c2d556de6459b732dceaae21a2
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t5.unity
+    guid: e0fb626d4c483fc4f8b6e1a04618e9c9
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t6.unity
+    guid: be07dec3ee2e7d94ca2e7952ed9587ce
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t7.unity
+    guid: e4348bdd98523414f93b0cf8fc30e9a8
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t8.unity
+    guid: c83ee567a5df2a14892bc50f4213da5a
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t9.unity
+    guid: 330d7ace9b523a744aa9ec637baeca75
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t10.unity
+    guid: c26c28f7e0829d04e8f66be3fc30ffe1
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t11.unity
+    guid: 0042234d7b618144daf98e1beefe03c6
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t12.unity
+    guid: 8c1b402c9a44f5741b9d08ba891d9fa4
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t13.unity
+    guid: 094a5c00246c6944ebaad4d66f8a0a66
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t14.unity
+    guid: 741376c3fc2f3a047b4d31183a459ebf
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t15.unity
+    guid: 8447bef5390634b4cb56015b2cee0c95
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t16.unity
+    guid: 0129ddd3689998941b8e8fb8439da646
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t17.unity
+    guid: bd9645617e7137248acdd300b1809e5e
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t18.unity
+    guid: a022c0cdc0484814b9e563e92075f639
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t19.unity
+    guid: 4fdd7986aedf1254884ba93d3a0789db
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t20.unity
+    guid: 0c412a03475b5984fad5b10e62dd985e
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t21.unity
+    guid: 35d064f4aa491dd4ca1011d37b7a1ba8
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t22.unity
+    guid: 3a80023c7696ba24c9d9e2b89a107354
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t23.unity
+    guid: 2b01baa847ffa7a49907b21b315bb138
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t24.unity
+    guid: 2213f69b72d40ad479dea676f22315ec
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t25.unity
+    guid: 9af83bac9a8fbbf40818fb2d3df882b5
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t26.unity
+    guid: bbec2430ee6920043a9af9c5c89905ad
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t27.unity
+    guid: e6e8d5b5b64efc241996f9004299bfec
+  - enabled: 1
+    path: Assets/Scenes/Light Probe Merging/Performance Test/t28.unity
+    guid: e9c4fb0b6c684374a9793ddef0e4c79c
+  m_configObjects: {}
